@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head-div{
+    background-color: #1876d1;
+    color: white;
+    padding: 10px 5px;
+}
